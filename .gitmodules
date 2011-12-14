@@ -1,3 +1,6 @@
 [submodule "arc2"]
 	path = arc2
 	url = https://github.com/semsol/arc2.git
+[submodule "gitsubmoduletest"]
+	path = gitsubmoduletest
+	url = git@github.com:larseirik/gitsubmoduletest.git
